@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="device (device_firmware_files)"
+    id="id-0e23209c0edb4281b9439ba158d57d9c">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-a43420112d164c2d9a3d44b47d805169.xml#id-a43420112d164c2d9a3d44b47d805169"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-32fe287739b14897995ee0c8d7d85f0a.xml#id-32fe287739b14897995ee0c8d7d85f0a"/>
+</archimate:CompositionRelationship>
