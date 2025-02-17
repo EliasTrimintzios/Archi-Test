@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="account(sim_cards)"
+    id="id-d620fc793e4b435c832dac048157207f">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-7e53f014385b416aab542bb65628ef6d.xml#id-7e53f014385b416aab542bb65628ef6d"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-cf77e4250fb248ef90118f4965956c39.xml#id-cf77e4250fb248ef90118f4965956c39"/>
+</archimate:CompositionRelationship>

@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sim(simassignment)"
+    id="id-6cced0a03ad244b0b7ac17af11df675d">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-6709bde2bdca44499957edec34bd4474.xml#id-6709bde2bdca44499957edec34bd4474"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-7e53f014385b416aab542bb65628ef6d.xml#id-7e53f014385b416aab542bb65628ef6d"/>
+</archimate:CompositionRelationship>

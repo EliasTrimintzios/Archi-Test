@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Abstract Inheritance"
+    id="id-2ecd7a9d2d76418faf7f8ff9852bae8a">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-b05b397093474d01a2e58c6bf5393d96.xml#id-b05b397093474d01a2e58c6bf5393d96"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-2956c5dcc1474a0c85bace4d8dea18c8.xml#id-2956c5dcc1474a0c85bace4d8dea18c8"/>
+</archimate:SpecializationRelationship>
