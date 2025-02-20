@@ -286,7 +286,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-05d6ec273ebc482a86ee316465eed34c"
-      targetConnections="id-7391f525065d4c5e95a99ec6d76923f2">
+      targetConnections="id-7391f525065d4c5e95a99ec6d76923f2 id-cd14e0ddb66744da9bf249c54510a400">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b4f87c58b1304ec59f44d45f8bc933eb"
@@ -318,6 +318,8 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-5f075c0aeecc4c02bd8a946eaff889c3"
+        fontColor="#ff0000"
+        lineColor="#ff0000"
         source="id-05d6ec273ebc482a86ee316465eed34c"
         target="id-883b734f745e4837a3f7231e22427e87">
       <bendpoints
@@ -714,7 +716,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-883b734f745e4837a3f7231e22427e87"
-      targetConnections="id-01da99b70dce4a108d1a59f66e83b7a2 id-5f075c0aeecc4c02bd8a946eaff889c3 id-8fffd10ecb6742ebbe5b031fa0d05430">
+      targetConnections="id-01da99b70dce4a108d1a59f66e83b7a2 id-5f075c0aeecc4c02bd8a946eaff889c3 id-8fffd10ecb6742ebbe5b031fa0d05430 id-cdf36d34520e48deba3b2981a5e82cbe">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3321ca3b5cdb432fa6f4151f5fe80f24"
@@ -756,6 +758,8 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-7391f525065d4c5e95a99ec6d76923f2"
+        fontColor="#ff0000"
+        lineColor="#ff0000"
         source="id-883b734f745e4837a3f7231e22427e87"
         target="id-05d6ec273ebc482a86ee316465eed34c">
       <bendpoints
@@ -3543,5 +3547,65 @@
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-c5ed61f9f2f94ba4bdd61c0cf4c8d013.xml#id-c5ed61f9f2f94ba4bdd61c0cf4c8d013"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7c5467eac0684b8b89cc4a19e6263799">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-cdf36d34520e48deba3b2981a5e82cbe"
+        source="id-7c5467eac0684b8b89cc4a19e6263799"
+        target="id-883b734f745e4837a3f7231e22427e87">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-b524707d806145fdb5407acfad571b93.xml#id-b524707d806145fdb5407acfad571b93"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-cd14e0ddb66744da9bf249c54510a400"
+        source="id-7c5467eac0684b8b89cc4a19e6263799"
+        target="id-05d6ec273ebc482a86ee316465eed34c">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-f49a0c5b24104633807de3db0cbff4b2.xml#id-f49a0c5b24104633807de3db0cbff4b2"/>
+    </sourceConnections>
+    <bounds
+        x="1572"
+        y="1644"
+        width="168"
+        height="96"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-42c8575fe9b940f598dea31482491316">
+      <features
+          name="labelExpression"
+          value="device FK&#xD;&#xA;"/>
+      <bounds
+          x="12"
+          y="25"
+          width="120"
+          height="24"/>
+      <archimateElement
+          xsi:type="archimate:BusinessService"
+          href="BusinessService_id-ae2493b4acff42cf87a233481b0c9f69.xml#id-ae2493b4acff42cf87a233481b0c9f69"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-449b0222ead941659054cdf85eaa5daa">
+      <features
+          name="labelExpression"
+          value="project FK"/>
+      <bounds
+          x="12"
+          y="48"
+          width="120"
+          height="24"/>
+      <archimateElement
+          xsi:type="archimate:BusinessService"
+          href="BusinessService_id-14535695c0ab4f5499003b0e8e9f6da5.xml#id-14535695c0ab4f5499003b0e8e9f6da5"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-de384b6c31624e85b5ec75b5f2766c81.xml#id-de384b6c31624e85b5ec75b5f2766c81"/>
   </children>
 </archimate:ArchimateDiagramModel>
