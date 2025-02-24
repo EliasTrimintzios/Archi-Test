@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="modem (modemassignment)"
+    id="id-c86e2d951a164e04a13a95e0e9e901d1">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-27bfa2dbfe944d828604778436ab97a1.xml#id-27bfa2dbfe944d828604778436ab97a1"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d3f95b1e9c78412fb70e4bc59b6aba44.xml#id-d3f95b1e9c78412fb70e4bc59b6aba44"/>
+</archimate:CompositionRelationship>

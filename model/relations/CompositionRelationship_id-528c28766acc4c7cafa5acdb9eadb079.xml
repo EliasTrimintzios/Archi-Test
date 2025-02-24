@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="device (calibrations)"
+    id="id-528c28766acc4c7cafa5acdb9eadb079">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-36c36d20564a47e890a28a22de079d5a.xml#id-36c36d20564a47e890a28a22de079d5a"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d65ef0fcffd64f17870238002b665cfb.xml#id-d65ef0fcffd64f17870238002b665cfb"/>
+</archimate:CompositionRelationship>

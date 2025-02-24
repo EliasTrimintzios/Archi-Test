@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="device_type (production_orders)"
+    id="id-d6f0bfebc5974c0883638b437db18847">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d7c41d75ec48435d97d9dc6d4eec3ba1.xml#id-d7c41d75ec48435d97d9dc6d4eec3ba1"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-3c1c844d49294b01b11cc81225c51270.xml#id-3c1c844d49294b01b11cc81225c51270"/>
+</archimate:CompositionRelationship>
