@@ -1,0 +1,13 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pillar Controls SLPs"
+    id="id-79eefca0851d47cc9d90a8b9693970b4">
+  <properties/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-09ac8b26fca34a1f880e077d781c034b.xml#id-09ac8b26fca34a1f880e077d781c034b"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-ed8d93e996fd4c2384da117a274ac56a.xml#id-ed8d93e996fd4c2384da117a274ac56a"/>
+</archimate:CompositionRelationship>

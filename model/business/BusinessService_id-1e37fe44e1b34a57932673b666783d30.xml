@@ -1,0 +1,4 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="+statusofworking:varchar( Αγνωστο,κακή, μετρια,καλή λειτουργεία) (copy)"
+    id="id-1e37fe44e1b34a57932673b666783d30"/>
